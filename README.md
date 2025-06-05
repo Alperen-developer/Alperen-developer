@@ -2,7 +2,7 @@
 
 🎓 I'm a student with a vision to achieve big goals at a young age.  
 💻 Passionate about Artificial Intelligence, Quantum Physics, Operating Systems, and Embedded Software.  
-🚀 Currently working on various advanced projects including **Pardus-E**, **QUANTUM Q'es**, **NEOx**, and more.
+🚀 Currently working on various advanced projects including **Pardus-E**, **QUANTUM Q's**, **Q2S**, **NEOx**, and more.
 
 ---
 

@@ -47,7 +47,7 @@
 
 ## 📬 Contact Me
 
-- 📧 Email: timonto43@gmail.com *(replace with your actual email)*
+- 📧 Email: timonto43@gmail.com  - mr.timonto@gmail.com
 - 🧠 Team: **Cenix Technologies®** (Part of Datakral)
 - 🆔 Team ID: `#731742`
 - 🚀 Teknofest Application ID: `#3582274`
